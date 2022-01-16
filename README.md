@@ -8,7 +8,7 @@ In the project directory, you can learn:
 
 - useState
 - useEffect
-- reducer
+- useReducer
 - useMemo
 - useCallback
 - react testing
